@@ -1,0 +1,43 @@
+      *
+     ***			height = 4
+    *****			2*4-1  = 7 = length
+   *******	
+
+
+
+till j = [length-(no. of star at i)]/2 || [length-{length-(no. of star at i}]/2, print spaces
+          (7-3)/2	or	7-{(7-3)/2}	
+means for j greater than 1st condition or is less than 2nd condition, print STAR, else spaces
+
+no. of star at i = i*2-1
+
+
+
+
+	*******
+	 *****
+	  ***
+	   *
+
+
+
+
+	*	*
+	 *     *	height = 4	length = 7  i=4, j=7
+	  *   *		if(j==((length-(2*i-1))/2)+1 && j==(length-(length-(2*i-1))/2)){
+           * *                  System.out.print("*");
+                	}else{
+                     		System.out.print(" ");
+                	} 
+	   
+
+
+	    *
+	   * *
+	  *   *
+	 *     *
+	*       *
+
+
+
+
