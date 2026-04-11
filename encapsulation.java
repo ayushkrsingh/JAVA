@@ -10,25 +10,9 @@ class Human {
     public int getAge() {
         return age;
     }
-    public void setAge(int age) {
-        this.age = age;
+    public void setAge(int a) {
+        a = age;
     }
-
-
-    
-    // public void setName(String name){
-    //     this.name = name;
-    // }
-    // public String getName() {
-    //     return name;
-    // }
-    // public void setAge(int a){
-    //     age = a;
-    // }
-
-    // public int getAge() {
-    //     return age;
-    // }
     
 }
 
