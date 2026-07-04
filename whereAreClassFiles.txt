@@ -1,0 +1,13 @@
+Class files are hidden delebrately to eleminate confusions,
+
+To see them, just remove the following lines of json from the settings.json file:
+
+----------------------
+
+
+"files.exclude": {
+"**/*.class": true
+}
+
+
+

@@ -40,20 +40,3 @@ public class arrOFobj {
 }
 
 
-
-// change data in this latex and convert it for my resume:
-// my details:
-// highschool from pioneet convent school 93.2%
-// intermediate from pioneer convent school 81.4%
-// currently btech Cs_Data Science 1st year from Galgotias college of edu and technology
-// Skills: C language, MS office tools (Excel, Powerpoint, word), Java(basics), HTML, CSS, Javascript, Git, github, VS code, Blender hard surface modelling, 
-// projects: are on my github, put sample links to edit, 
-
-// 1st one is my portfolio sample i am working on using HTML, CSS, JS 
-// https://ayushkrsingh.github.io/PORTFOLIO_2025/
- 
-// many CSS mini projects are at https://github.com/ayushkrsingh/Little-Codes
-// one more protfolio, i made it using html and css only like 5yrs ago:
-// https://ayushkrsingh.github.io/PORTFOLIO/
-
-// hobby: Badminton, Chess
