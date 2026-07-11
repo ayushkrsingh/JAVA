@@ -1,7 +1,4 @@
-
-// Calc and AdvCalc have their methods in separate files (Calc.java and AdvCalc.java) to demonstrate that we can keep distinct methods safely and take control of which object will provide what methods depending on which class they are made of------
-
-
+package inheritance;
 public class Inheritance {
 
     public static void main(String[] args) {
